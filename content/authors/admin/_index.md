@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: PhD in Computer Science
+  - course: PhD in Computer Science
     institution: UT Austin
     year: 2018—2023
 
