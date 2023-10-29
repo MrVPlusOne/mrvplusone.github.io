@@ -6,8 +6,8 @@ title: Jiayi Wei
 name_pronunciation: Jia-yi Wei
 
 # # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: Jiayi
+last_name: Wei
 
 # # Status emoji
 # status:
