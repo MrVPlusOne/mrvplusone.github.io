@@ -3,7 +3,7 @@
 title: Jiayi Wei
 
 # Name pronunciation (optional)
-name_pronunciation: Jia-yi Wei
+name_pronunciation: 家一 魏
 
 # # Full name (for SEO)
 first_name: Jiayi
