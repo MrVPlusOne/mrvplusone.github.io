@@ -17,14 +17,12 @@ last_name: Wei
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist at stealth mode AI startup
+role: Research Scientist at Augment Computing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UTOPIA Research Group
-  url: "http://utopia.cs.utexas.edu"
-- name: TAUR LAB
-  url: "https://taur.cs.utexas.edu/"
+- name: Augment Computing, Inc.
+  url: "https://augmentcode.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on supercharging ML4Code using static analysis.
@@ -111,4 +109,4 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at a stealth mode AI startup. I obtained my PhD degree in Computer Science at UT Austin, advised by [Işıl Dillig](http://www.cs.utexas.edu/~isil/) and [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/). My PhD research focuses on combining deep learning with static analysis techniques to automate programming tasks such as inferring type annotations and suggesting code changes. During my first few years as a PhD student, I also explored a range of other research interests, including software security and verification, program synthesis, and robotics. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China.
+I am a research scientist at [Augment Computing, Inc.](https://augmentcode.com) I obtained my PhD degree in Computer Science at UT Austin, advised by [Işıl Dillig](http://www.cs.utexas.edu/~isil/) and [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/). My PhD research focuses on combining deep learning and static analysis to automate programming tasks such as type inference and code autoediting. During my first few years as a PhD student, I also explored a range of other research topics, including software security and verification, program synthesis, and robotics. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China.
