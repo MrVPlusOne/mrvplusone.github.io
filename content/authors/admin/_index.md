@@ -17,7 +17,7 @@ last_name: Wei
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist at Augment Computing
+role: Research Scientist at Augment
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,7 +37,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: UT Austin
+    institution: University of Texas at Austin
     year: 2018—2023
 
   - course: BSc in Physics
@@ -101,9 +101,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jiayiwei/
-  - icon: cv
-    icon_pack: ai
-    link: files/Jiayi_Resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/Jiayi_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
