@@ -21,8 +21,8 @@ role: Research Scientist at Augment
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Augment Computing, Inc.
-  url: "https://augmentcode.com"
+  - name: Augment Computing, Inc.
+    url: "https://augmentcode.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on supercharging ML4Code using static analysis.
@@ -36,13 +36,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: University of Texas at Austin
-    year: 2018—2023
+    - course: PhD in Computer Science
+      institution: University of Texas at Austin
+      year: 2018—2023
 
-  - course: BSc in Physics
-    institution: University of Science and Technology of China
-    year: 2013—2017
+    - course: BSc in Physics
+      institution: University of Science and Technology of China
+      year: 2013—2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -109,4 +109,6 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at [Augment Computing, Inc.](https://augmentcode.com) I obtained my PhD degree in Computer Science at UT Austin, advised by [Işıl Dillig](http://www.cs.utexas.edu/~isil/) and [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/). My PhD research focuses on combining deep learning and static analysis to automate programming tasks such as type inference and code autoediting. During my first few years as a PhD student, I also explored a range of other research topics, including software security and verification, program synthesis, and robotics. Before joining UT, I received my bachelor’s degree in Physics from the University of Science and Technology of China.
+I'm a founding member and research scientist at [Augment Computing, Inc.](https://augmentcode.com/), where I build innovative AI-powered developer tools. I earned my PhD in Computer Science from UT Austin under the guidance of [Işıl Dillig](http://www.cs.utexas.edu/~isil/) and [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/), focusing on blending deep learning with static analysis to automate programming tasks like type inference and code autoediting. Along the way, I also gained experience in software security, verification, program synthesis, and robotics. Before UT, I earned my bachelor’s in Physics from the University of Science and Technology of China.
+
+At Augment, I've worked on projects ranging from code completion to retrieval context, and I'm currently leading our research on the [Next Edit feature](https://www.augmentcode.com/#Edits). I’m passionate about building tools that empower developers, and I thrive on tackling complex AI challenges that push the boundaries of what's possible in software engineering with large language models.
