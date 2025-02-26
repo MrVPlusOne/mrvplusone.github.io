@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -153,7 +153,7 @@ sections:
   #     columns: '2'
   - block: collection
     content:
-      title: Recent Publications
+      title: Selected Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -163,7 +163,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: "2"
       view: citation
   # - block: portfolio
   #   id: projects
@@ -272,5 +272,5 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
     design:
-      columns: '2'
+      columns: "2"
 ---
